@@ -1,0 +1,1 @@
+![[docs/ObsidianVault/01. Attachment/Cambridge vocabulary for IELTS/Cambridge vocabulary for IELTS ( PDFDrive ).pdf#page=20&selection=597,0,597,7&color=red]]
