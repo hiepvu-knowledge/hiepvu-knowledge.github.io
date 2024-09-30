@@ -1,11 +1,11 @@
-site_name: "IELTS BẰNG NIỀM TIN"
+site_name: "TRI THỨC HIỆP VŨ"
 docs_dir: ./docs/ObsidianVault/
-site_url: https://dreamielts.github.io/
+site_url: https://hiepvu-knowledge.github.io/
 
-site_description: IELTS BẰNG NIỀM TIN
+site_description: TRI THỨC
 site_author: haihabk51
 
-repo_url: https://github.com/dreamielts/dreamielts.github.io/
+repo_url: https://github.com/hiepvu-knowledge/hiepvu-knowledge.github.io/
 
 
 theme:
