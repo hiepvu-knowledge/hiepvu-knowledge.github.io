@@ -7,5 +7,6 @@ date:
 share: true
 category: docs
 ---
+![[home page.jpg]]
 
-![](https://i.imgur.com/1gieZQH.png)
+![](https://www.youtube.com/watch?v=sL3xKaBhKVQ)
