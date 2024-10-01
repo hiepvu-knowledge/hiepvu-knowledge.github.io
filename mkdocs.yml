@@ -1,4 +1,4 @@
-site_name: "TRI THỨC HIỆP VŨ"
+site_name: "knowledge"
 docs_dir: ./docs/ObsidianVault/
 site_url: https://hiepvu-knowledge.github.io/
 
@@ -22,15 +22,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: teal
+      primary: pink
+      accent: pink
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: black
+      primary: amber
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to light mode
